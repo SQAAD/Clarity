@@ -1,0 +1,2449 @@
+/* UNIVERSAL STUDIOS KAI STYLES */
+html,body{
+  font-size:18px; /* ROOT ELEMENT */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* UNIVERSAL STUDIOS */
+#certainty{
+  display:none;
+}
+
+
+span.eidiko{
+  border:3px inset black;
+  background-color:blue;
+  color:#fff;
+  padding:.3rem .5rem;
+  border-radius:5px;
+}
+
+
+/* NAVIGATION GIA NA PETAKSW ME TO AEROPLANO */
+nav{
+/*  border:.5rem solid blue; */
+  width:100%; /* S O S */
+
+  display:flex;
+  justify-content:space-between;
+  justify-content:space-around;
+  justify-content:space-between;
+
+
+
+}
+
+nav .kouti-one{
+/*  border:5px solid darkgreen; */
+  background-color:orange;
+
+
+
+
+}
+
+
+nav .kouti-two{
+/*  border:5px solid red; */
+
+  width:35%;
+
+
+
+  flex-shrink:1;
+  position:relative;
+  right:195px;
+
+}
+
+
+nav .kouti-one,.kouti-two{
+  margin:0 30px;
+
+  display:flex;
+  align-items:center;
+
+  justify-content:space-around;
+}
+
+
+nav img{
+  height:3rem;
+  width:auto;
+}
+
+
+/* HEADER */
+header{
+  background-image:url("../images/banner-landingpage.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+
+  height:30rem;
+  width:100%;
+
+
+
+
+}
+
+
+div#TRUTH{
+/*  border:5px solid gray; */
+width:50%;
+width:35%;
+height:60%;
+
+background-color:forestgreen;
+margin-left:100px;
+top:100px;
+position:relative;
+
+
+display:flex;
+flex-flow:column nowrap;
+text-align:center;
+justify-content:space-around;
+color:#fff;
+}
+
+
+
+#TRUTH h3{
+  font-family:cursive,vardaks;
+  font-size:22px;
+}
+
+
+#TRUTH h1{
+  font-size:50px;
+/*  border:2px solid black; */
+  text-transform:capitalize;
+}
+
+p.class{
+  font-size:25px;
+/*  border:2px solid black; */
+}
+
+p{
+  font-size:23.5px;
+/*  border:2px solid black; */
+}
+
+
+
+
+
+#target{
+  background-color:#4A4A4A;
+  border-radius:4px;
+  width:50%;
+  margin:0 auto;
+
+  text-transform:uppercase;
+  text-transform:lowercase;
+  text-transform:capitalize;
+  text-transform:inherit;
+
+  padding:1rem 0;
+}
+
+
+
+/* CONTAINERS SECTION */
+section.container{
+/*  border:10px solid blue; */
+  height:700px;
+  width:100%;
+/*  background-color:cornsilk; */
+
+  display:flex;
+  justify-content:space-around;
+
+
+  margin:10px 0;
+
+}
+
+
+.loftarios,.lofty-question{
+/*  border:10px solid red; */
+  height:635px;
+/*  background-color:darkorange; */
+  width:45%;
+
+
+}
+
+.image-container{
+/*  border:3px solid yellow; */
+  text-align:center;
+  height:60%;
+
+}
+
+section.container img{
+  height:100%; /*DEN PIANEI GIATI DEN EXEI KAPOIO HEIGHT GIA NA EINAI 5%*/
+  width:70%;
+
+}
+
+
+.container h2{
+/*  border:3px solid darkgreen; */
+}
+
+div#kontainer{
+/*  border:1rem solid chartreuse; */
+  height:211px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+}
+
+
+
+/* PICTURES   CONTAINER  */
+div#pictures-container{
+  /* border:.5rem solid darkblue; */
+/*  background-color:gray; */
+  color:black;
+
+  padding-bottom:64px;
+
+}
+
+
+div.picturinos{
+  display:flex;
+  flex-wrap:wrap;
+
+/*  border:10px solid darkred; */
+  margin:0 1%;
+}
+
+div.picturinos img{
+  width:25%;
+}
+
+.fontarios h2{
+  opacity:100%;
+  font-size:36px;
+  font-family:'Roboto-bold', vardaks;
+  text-align:center;
+/*  border:2px solid gold; */
+  font-weight:900;
+
+  text-transform:lowercase;
+  text-transform:none;
+
+  margin-top:64px;
+
+
+}
+
+
+/* L O V E   L O V E   L O V E  */
+
+ .fontarios p{
+  font-size:16px;
+  color:black;
+  line-height:1.4;
+  text-transform:inherit;
+
+  padding-bottom:80px;
+
+
+
+}
+
+
+.fontarios{
+/*  border:5px solid lightgreen; */
+  text-align:center;
+}
+
+
+
+
+/* E P I K E F A L I D  A  */
+div#epikefalida{
+/*  border:1rem solid darkviolet ; */
+
+  display:flex;
+  justify-content:center;
+  padding:280px 0;
+}
+
+div#epikefalida span{
+  font-size:30px;
+  line-height:1.1;
+  font-family:'Palatino-italic';
+  color:#4a4a4a;
+  padding-right:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* F O O T E R */
+div#footer{
+/*  border:10px solid peru; */
+  height:62px;
+  display:flex;
+  justify-content:space-between;
+/*  background-color:#9B9B9B; */
+  color:#fff;
+  padding:10rem 0;
+}
+
+
+div#footer div{
+  display:flex;
+  align-items:center;
+}
+
+
+/* EDW PAIZOUME */
+@media only screen and (max-width:5600px){
+
+  /*UNIVERSAL STUDIOS */
+
+
+
+  body{
+
+  }
+
+
+
+    html body  *{
+       border:0;
+     }
+
+
+  nav{
+    background-color:beige;
+    height:13rem;
+    font-size:5rem;
+
+    padding:2rem 0;
+
+
+  }
+
+  nav .kouti-one{
+    width:30%;
+
+    border:1px groove none;
+    background-color:none;
+    background-color:transparent;
+
+
+  }
+
+  nav .kouti-two{
+    width:60%;
+
+    border:2px inset none;
+    background-color:none;
+    position:relative;
+    right:100px;
+
+  }
+
+  span.eidiko{
+    padding:1.2rem 2.5rem;
+    text-transform:capitalize;
+    border-radius:.8rem;
+
+  }
+
+  nav img{
+    height:8rem;
+    width:auto;
+  }
+
+  header{
+    height:120rem;
+    display:flex;
+    align-items:center;
+
+
+  }
+
+  #TRUTH h3{
+    color:beige;
+    font-size:none;
+    font-size:10rem;
+    font-size:0;
+    font-size:8rem;
+
+    margin-bottom:2.5rem;
+
+    position:relative;
+  }
+
+  #TRUTH h1{
+    font-size:12rem;
+
+  }
+
+  #TRUTH p{
+    font-size:5rem;
+
+    padding:3rem 0;
+
+  }
+
+  div#TRUTH{
+    padding:0 2.5rem;
+    justify-content:center;
+    top:0;
+    right:-32rem;
+    font-size:30rem;
+
+    border:1.5rem groove darkseagreen;
+  }
+
+
+  p#target{
+    margin-top:3.5rem;
+    background-color:cornflowerblue;
+    border:10px inset black;
+    border-radius:30px;
+    font-family:monospace,vardaks;
+    text-transform:capitalize;
+  }
+
+
+
+  #TRUTH:hover{
+   cursor:pointer;
+
+   transform:translate(50%);
+
+
+  }
+
+
+ section.container{
+   height:auto;
+   display:flex;
+   justify-content:center;
+ }
+
+ .loftarios,.lofty-question{
+   height:auto;
+
+
+
+   padding:311px 0;
+
+
+  padding-top:311px;
+
+
+ }
+
+ .container h2{
+   font-size:7rem;
+   margin-top:13.5rem;
+   margin-bottom:3rem;
+ }
+
+ .container p{
+   font-size:4rem;
+ }
+
+ .image-container{
+   height:auto;
+ }
+
+
+ .fontarios p{
+   font-size:72px;
+
+   padding-top:80px;
+ }
+
+ .fontarios h2{
+   padding-top:0;
+   margin-top:0;
+   font-size:11rem;
+
+ }
+
+ #pictures-container{
+   margin-top:0;
+
+ }
+
+ #epikefalida{
+   height:372px;
+
+   display:flex;
+   align-items:center
+ }
+
+ div#epikefalida span{
+   font-size:82px;
+
+   display:flex;
+   align-items:center;
+   margin-right:1rem;
+
+ }
+
+ div#epikefalida img{
+   width:40rem;
+   height:auto;
+   height:10rem;
+   margin-left:44rem;
+ }
+
+
+ div#footer{
+   height:310px;
+   padding:5rem 6rem;
+   background-color:#9B9B9B;
+ }
+
+ div#footer div{
+   font-size:72px;
+ }
+
+
+ #mikechang{
+   width:1742px;
+   border:10px solid red;
+
+ }
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width:4200px){
+   body{
+
+  }
+
+  nav{
+    font-size:70px;
+    height:10rem;
+  }
+
+  div#TRUTH{
+    height:1000px;
+  }
+
+  div#TRUTH h1{
+    margin:2rem 0;
+  }
+
+
+   div#TRUTH:hover{
+     transform:none;
+   }
+
+   div#TRUTH h3{
+     font-size:5rem;
+     margin:0;
+   }
+
+   div#TRUTH p{
+     font-size:4rem;
+     padding:1rem 0;
+   }
+
+   div#epikefalida{
+     height:330px;
+     padding:3rem 0;
+     ju
+   }
+
+   div#epikefalida span{
+
+    margin-right:20rem;
+    font-size:72px;
+   }
+
+   div#epikefalida img{
+     height:130px;
+     width:auto;
+     margin-left:3rem;
+   }
+
+  nav .kouti-two{
+    right:160px;
+  }
+
+}
+
+
+
+@media only screen and (max-width:2800px){
+  body{
+
+  }
+
+  nav{
+    font-size:40px;
+    height:2rem;
+
+    padding:3.7rem 0;
+
+  }
+
+  nav .kouti-one{
+    width:20%;
+  }
+
+  nav.kouti-two{
+    width:80%;
+  }
+
+  nav img{
+    height:6rem;
+  }
+
+  header{
+    height:80rem;
+  }
+
+  div#TRUTH h1{
+    font-size:9rem;
+  }
+
+  div#TRUTH p{
+    font-size:3rem;
+  }
+
+   div#TRUTH p#target{
+    padding-left:2rem;
+    padding-right:2rem;
+    padding:3rem 2.5rem;
+
+    font-size:40px;
+
+    color:azure;
+
+    font-size:2.2rem;
+  }
+
+  section.container img{
+    width:90%;
+  }
+
+  section.container{
+    padding:0;
+    margin:0;
+
+
+  }
+
+  .loftarios,.lofty-question{
+    padding:0;
+    margin:0;
+
+
+
+    margin-top:0rem;
+
+    padding-top:5.5rem;
+  }
+
+  .container h2{
+    font-size:5.2rem;
+    font-weight:bold;
+    font-weight:500;
+    line-height:auto;
+    padding:0;
+    margin:0;
+
+
+
+
+     height:auto;
+
+     height:100%;
+  }
+
+  .container p{
+    font-size:3rem;
+    padding:0;
+    margin:0;
+    font-weight:normal;
+
+
+
+    padding-top:11px;
+  }
+
+  .image-container{
+    width:100%;
+    height:auto;
+
+
+
+  }
+
+  div#kontainer{
+
+    height:auto;
+    padding:0;
+    margin:0;
+
+    height:250px;
+    display:flex;
+
+    align-items:space-around;
+    justify-content:space-around;
+
+    flex-direction:row;
+  }
+
+
+
+  div#pictures-container{
+    margin:5.6rem 0;
+    padding:0;
+  }
+
+
+
+  /*  EPIKEFALIDA */
+  div#epikefalida span{
+
+
+    font-size:2.7rem;
+  }
+
+  div#epikefalida img{
+    height:90px;
+    width:auto;
+  }
+
+
+  div#footer div{
+    font-size:1.8rem;
+    margin:0 3rem;
+  }
+
+  div#footer{
+    height:210px;
+  }
+
+
+  .fontarios h2{
+    font-size:9rem;
+  }
+
+
+  nav img{
+    height:3rem;
+    width:auto;
+  }
+
+
+  #mikechang{
+    width:1244px;
+  }
+
+}
+
+
+
+
+/* MEDIA QUERY TO TARGET SCREEN SIZE BELOW 2100pixels*/
+@media only screen and (max-width:2100px){
+  body{
+
+  }
+
+
+
+  .container h2{
+    margin-top:15rem;
+  }
+
+  section.container{
+    height:auto;
+    height:926.781px; px;
+  }
+
+  .lofty-question,.loftarios{
+    padding-top:0;
+    display:flex;
+
+    flex-flow:column nowrap;
+
+    height:auto;
+  }
+
+  .container h2{
+    margin-top:0;
+    font-size:75px;
+
+    height:200px;
+    display:flex;
+    align-items:center;
+
+  }
+
+  .container p{
+    font-size:2.2rem;
+
+
+
+
+    height:100%;
+
+    display:flex;
+    align-items:center;
+
+  }
+
+  section.container section{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:nowrap;
+
+    height:100%;
+
+  }
+
+
+  .image-container{
+    height:60%;
+  }
+
+  div#kontainer{
+    height:30%;
+    height:auto;
+    height:100%;
+  }
+
+  .moneyisenergy{
+
+    height:30%;
+  }
+
+
+  div#epikefalida span{
+    margin-left:5rem;
+  }
+
+  div#epikefalida img{
+    height:70px;
+    width:360px;
+
+    margin-right:5rem;
+  }
+
+  div#epikefalida{
+    height:190px;
+  }
+
+  nav img{
+    height:1rem;
+  }
+
+  nav img{
+    height:3rem;
+  }
+
+  span.eidiko{
+    padding:.5rem .5rem;
+  }
+
+  .fontarios h2{
+    font-size:7rem;
+
+  }
+
+  .fontarios p{
+    font-size:56px;
+
+  }
+
+
+  .container h2{
+    width:829px;
+    font-size:59px;
+    font-weight:bold;
+    height:auto;
+    height:100px;
+  }
+
+
+  .container p{
+    height:auto;
+
+    border:3px inset lightgreen;
+    justify-con
+  }
+
+  section.container section{
+    align-items:flex-end;
+  }
+
+  section.container{
+    margin:5.6rem 0;
+  }
+
+  section.container section{
+    flex-direction:row;
+    width:783px;
+    flex-wrap:wrap;
+    align-content:flex-start;
+  }
+
+
+  #mikechang{
+    width:631px;
+  }
+
+
+}
+
+
+
+/* MEDIA QUERY TO TARGET SCREEN SIZE LESS THAN 1866 P I X E L S */
+@media only screen and (max-width:1866px){
+  header{
+    height:1000px;
+  }
+
+  div#TRUTH{
+    height:500px;
+
+    padding:0%;
+
+    right:0;
+  }
+
+  div#TRUTH h3{
+    font-size:3rem;
+    margin-bottom:.3em;
+
+  }
+
+  div#TRUTH h1{
+    font-size:5rem;
+    margin:0;
+  }
+
+  div#TRUTH p{
+    font-size:2.3rem;
+
+    margin:0;
+  }
+
+  div#TRUTH p#target{
+    background-color:brown;
+
+    padding:1rem 2rem;
+    font-size:1.4rem;
+    line-height:3;
+    font-weight:700;
+
+    margin:0 auto;
+  }
+
+  div#TRUTH p#target:hover{
+    background-color:chocolate;
+  }
+
+
+
+  div#pictures-container{
+    margin:5rem 0;
+  }
+
+  section.container{
+    margin-top:5rem;
+  }
+
+
+  nav{
+    font-size:20px;
+    font-weight:bold;
+  }
+
+
+  nav span:hover{
+    color:goldenrod;
+  }
+
+  span.eidiko{
+    padding:0rem 1rem;
+  }
+
+  span.eidiko:hover{
+    background-color:azure;
+    border:2px groove darkmagenta;
+    color:black;
+  }
+
+  nav img{
+    height:3rem;
+  }
+
+  .container h2{
+    font-size:65px;
+
+    font-weight:10;
+  }
+
+  .container p{
+    font-size:30px;
+
+    font-weight:normal;
+  }
+
+
+  div#image-container h1{
+    font-size:120px;
+  }
+
+div#pictures-container .fontarios p{
+    font-size:65px;
+
+
+    padding:0;
+    margin:1rem 0;
+  }
+
+
+  div#epikefalida span{
+    font-size:2rem;
+
+    text-align:center;
+  }
+
+  div#footer{
+    height:135px;
+    font-size:1.2rem;
+  }
+
+  div#footer div{
+    margin:0;
+  }
+
+  section.container section{
+  }
+
+
+  .container h2{
+    justify-content:center;
+  }
+
+  #mikechang{
+    width:100%;
+    position:relative;
+    left:.2rem;
+
+  }
+}
+
+
+
+
+/* MEDIA QUERY TO TARGET SCREEN SIZE LESS THAN 1750pixels */
+@media only screen and (max-width:1750px){
+  body{
+
+  }
+
+  nav{
+    font-size:25px;
+  }
+
+  div#TRUTH{
+    padding:5rem 0;
+  }
+
+
+  div#TRUTH p#target{
+    padding:0;
+
+    line-height:1;
+    line-height:2;
+    font-size:1rem;
+
+    margin-top:3em;
+  }
+
+
+  div#TRUTH p{
+    margin-top:3rem;
+  }
+
+
+  div#epikefalida img{
+    height:5rem;
+    width:auto;
+
+
+    height:85px;
+  }
+
+  #mikechang{
+    position:relative;
+    left:6.2rem;
+    width:600px;
+  }
+
+
+
+  .container p{
+    width:600px;
+
+  }
+
+  .container h2{
+    font-size:47px;
+  color:auto;
+  font-weight:600;
+  }
+
+  #oplo{
+    position:relative;
+    left:11%;
+  }
+}
+
+
+
+@media only screen and (max-width:1400px){
+  nav .kouti-two{
+    right:41px;
+
+    width:66%;
+  }
+
+
+  nav img{
+    height:2rem;
+  }
+
+}
+
+
+/*MEDIA QUERY TO TARGET SCREEN SIZE BELOW 1275 P I X E L S */
+@media only screen and (max-width:1275px){
+  .container h2{
+    font-size:60px;
+  }
+
+  .container p{
+    display:flex;
+    align-items:flex-start;
+  }
+
+
+div#pictures-container  .fontarios p{
+
+    font-size:2rem;
+
+  }
+
+  div#epikefalida span{
+    text-align:left;
+  }
+
+  div#epikefalida img{
+    height:117px;
+  }
+
+
+  .container h2{
+    font-size:40px;
+
+  }
+
+
+  .container p{
+    font-size:20px;
+    justify-content:center;
+
+  }
+
+  #mikechang{
+    border:hidden;
+  }
+
+
+
+}
+
+
+
+/*MEDIA QUERY TO TARGET SCREEN SIZE LESS THAN 1120px */
+@media only screen and (max-width:1120px){
+  div#epikefalida img{
+    width:1000px;
+
+    width:30%;
+    flex-shrink:0;
+    margin:0;
+    padding:0;
+
+  }
+
+  div#epikefalida{
+    padding:0;
+    display:block;
+    display:flex;
+
+    justify-content:space-around;
+  }
+
+  div#epikefalida span{
+    width:40%;
+    flex-shrink:0;
+
+    margin:0;
+    padding:0;
+  }
+
+  div#footer div{
+
+
+    font-size:.9rem;
+    width:100%;
+
+    align-items:center;
+  }
+
+  div.doi{
+    display:flex;
+    justify-content:flex-end;
+
+  }
+
+
+  #mikechang{
+    width:417px;
+    left:11rem;
+
+
+  }
+}
+
+
+/* A G K Y R A     EDW */
+@media only screen and (max-width:1000px){
+  body{
+
+  }
+
+  div.kouti-two{
+    width:80%;
+  }
+
+  nav{
+    padding:1.2rem;
+  }
+
+  header{
+    height:700px;
+  }
+
+  header div#TRUTH{
+    height:350px;
+    padding:0;
+
+  }
+
+  div#TRUTH h3{
+    font-size:25px;
+  }
+
+  div#TRUTH h1{
+    font-size:60px;
+  }
+
+  div#TRUTH p.class{
+    font-size:26px;
+    margin-top:0;
+  }
+
+  div#TRUTH p#target{
+    font-size:.5rem;
+    margin-top:0;
+
+  }
+
+
+  section.container{
+    height:500px;
+  }
+
+.container h2{
+    font-size:35px;
+    height:auto;
+
+    height:70px;
+
+    text-align:left;
+
+
+  }
+
+  .container p{
+    font-size:17px;
+    text-align:left;
+  }
+
+  .fontarios h2{
+    font-size:80px;
+  }
+
+
+  div#epikefalida span{
+    font-size:30px;
+    height:123px;
+  }
+
+
+
+  nav img{
+    height:1.1rem;
+    width:auto;
+  }
+
+
+  .container h2{
+    font-size:30px;
+  }
+
+
+  .container p{
+    bottom:22px;
+
+    font-size:14px;
+  }
+
+
+  #mikechang{
+    text-align:center;
+    left:12.3rem;
+    width:317px;
+  }
+
+  nav{
+    font-size:13px;
+  }
+
+}
+
+/* MEDIA QUERY TO TARGET SCREEN SIZE LESS THAN 900px  */
+@media only screen and (max-width:900px) {
+  body{
+    /*background-color:thistle; */
+  }
+
+  span.eidiko{
+  /*  border:1px solid black; */
+    border-radius:3px;
+    text-transform:capitalize;
+    padding:4px 8px;
+    color:#fff;
+  /*  background-color:lawngreen; */
+  }
+
+  div.kouti-one{
+    margin-left:3rem;
+    font-size:13px;
+
+  }
+
+  div.kouti-two{
+    margin-right:3rem;
+    font-size:13px;
+    width:374px;
+  }
+
+  nav img{
+    height:1rem;
+    width:auto;
+  }
+
+
+  header{
+    height:20rem;
+  }
+
+
+  div#TRUTH{
+    height:100%;
+    visibility:hidden;
+    display:block;
+    width:100%;
+    margin:0;
+    top:0;
+    align-items:center;
+    display:flex;
+    justify-content:center;
+
+
+
+  }
+
+
+   div#TRUTH h1,h3{
+    visibility:visible;
+    width:100%;
+    display:block;
+  /*  border:3px dotted black; */
+    margin-bottom:1.5rem;
+  }
+
+  div#TRUTH h1{
+    display:block;
+    font-size:70px;
+    width:100%;
+  }
+
+  #TRUTH h3{
+    font-size:1.7rem;
+  }
+
+
+  p#target{
+    padding:.3rem 2rem;
+    border-radius:5px;
+    display:none;
+  }
+
+  p.class{
+    display:none;
+  }
+
+
+
+  /************/
+
+  section.container img{
+    width:90%;
+  }
+
+  .image-container{
+    height:40%;
+    margin:0 auto;
+    width:80%;
+  }
+
+
+
+  div#kontainer{
+    height:150px;
+  }
+
+
+  .loftarios, .lofty-question{
+  /*  border:10px solid blue; */
+    height:380px;
+    display:flex;
+    flex-flow:column nowrap;
+    justify-content:space-around;
+  }
+
+  p{
+    font-size:13px;
+    margin-top:10px;
+  }
+
+  .container h2{
+    font-size:1.5rem;
+  }
+
+
+  div#epikefalida span{
+    font-size:15px;
+    display:flex;
+    align-items:center;
+  }
+
+
+  section.container{
+    height:auto;
+    height:none;
+  }
+
+
+  div#epikefalida{
+    padding:30px 0;
+  }
+
+  div#footer{
+    font-size:13px;
+    justify-content:space-around;
+  }
+
+
+  /*********/
+  .fontarios h2{
+    margin-top:20px;
+  }
+
+  .fontarios p{
+    padding-bottom:20px;
+  }
+
+
+  /* AGKYRA */
+  section.container{
+    margin-top:2rem;
+  }
+
+  div#pictures-container{
+    margin-top:2rem;
+  }
+
+
+  nav .kouti-one{
+    margin:0;
+  }
+
+
+  nav .kouti-two{
+    width:532px;
+  }
+
+
+  .lofty-question,.loftarios{
+    justify-content:flex-start;
+  }
+
+  .container h2{
+    font-size:1.1rem;
+    height:39px;
+  }
+
+  .container p{
+    font-size:11px;
+
+    border:hidden;
+
+    margin-top:1.2%;
+
+  }
+
+
+  #mikechang{
+    border:5px dotted lightcoral;
+    left:15.3rem;
+    width:238px;
+    border:hidden;
+  }
+
+
+  #oplo{
+    text-align:center;
+    width:265px;
+    left:31%;
+
+  }
+
+  section.container{
+    height:200px;
+    margin-bottom:0;
+  }
+
+
+  div#pictures-container{
+    margin-top:5rem;
+
+    margin-bottom:2rem;
+  }
+
+  .fontarios h2{
+    font-size:42px;
+  }
+
+
+  div#pictures-container .fontarios p{
+    font-size:1rem;
+  }
+
+  div.picturinos{
+    margin:0 10%;
+
+    border:10px inset red;
+
+
+  }
+
+  div.picturinos img{
+    margin-right:3.2px;
+
+  }
+
+  div.picturinos img{
+    width:24%;
+  }
+
+
+  div#epikefalida img{
+    height:44px;
+    width:22%;
+  }
+
+  div#epikefalida{
+    background-color:beige;
+    padding:0 0;
+  }
+
+  div#footer{
+    height:0;
+  }
+}
+
+
+
+/******************************************************/
+@media only screen and (max-width:799px){
+  div#footer{
+    background-color:black;
+  }
+
+
+  div#pictures-container .fontarios p{
+    font-size:.82rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERY TO TARGET SCREEN SIZE LESS THAN 699 PIXELS ***/
+@media only screen and (max-width:699px) {
+  body{
+    /*background-color:turquoise; */
+  }
+
+
+    html body  *{
+       border:0;
+     }
+
+  div.kouti-one{
+    display:none;
+  }
+
+  span#yoga{
+    display:none;
+  }
+
+
+  div.kouti-two{
+    width:100%;
+
+    margin-right:-1rem;
+  }
+
+
+  nav{
+    height:48px;
+  }
+
+  header{
+    height:13rem;
+  }
+
+
+
+  nav .kouti-one, .kouti-two{
+    margin:0;
+    width:100%;
+    margin-right:0;
+
+  }
+
+
+  div.kouti-two{
+    margin:0;
+  }
+
+  /***/
+  div#TRUTH h3{
+    font-size:1rem;
+
+  }
+
+
+  div#TRUTH h1{
+    font-size:2rem;
+  }
+
+
+  section.container{
+    padding-top:0;
+  }
+
+  .loftarios, .lofty-question{
+    height:280px;
+    height:210px;
+    height:170px;
+    height:190px;
+
+    margin:10px 0;
+
+  }
+
+
+  .container h2{
+    font-size:.6rem;
+  }
+
+
+  p{
+    font-size:5px;
+  }
+
+  div#kontainer{
+/*    border:.2rem solid chartreuse; */
+    height:120px;
+/*    border:3px solid slateblue; */
+
+    height:1px;
+    height:auto;
+
+    padding:0;
+
+  }
+
+  /************/
+
+  .fontarios h2{
+    font-size:1rem;
+    padding-top:0px;
+    margin:0;
+  }
+
+  .fontarios p{
+    font-size:8px;
+    display:flex;
+    align-items:center;
+  /*  border:10px solid dodgerblue; */
+    align-items:flex-start;
+    padding:0;
+    display:flex;
+    align-items:flex-end;
+    align-items:flex-start;
+    align-items:flex-end;
+
+
+    }
+
+  div#pictures-container{
+    padding-bottom:25px;
+    margin-top:25px;
+
+    padding-bottom:20px;
+    padding-top:10px;
+    margin:0;
+
+
+  }
+
+  section.container{
+    padding-top:10px;
+    padding-top:0;
+  }
+
+
+
+
+  /**** footer **/
+  div#epikefalida span{
+    font-size:6px;
+    padding-right:10px;
+  }
+
+  div#epikefalida img{
+    height:.7rem;
+    width:auto;
+  }
+
+  div#epikefalida{
+    padding:10px 0;
+
+  }
+
+  div#footer div{
+    font-size:6px;
+    height:32px;
+  }
+
+
+  .image-container{
+    height:60%;
+  }
+
+
+  .image-container img{
+    margin-top:10px;
+  }
+
+
+  /* TWRA */
+
+  .container h2{
+    border:3px solid blue;
+    height:20PX;
+
+  }
+
+
+  div#footer{
+    align-items:center;
+    height:auto;
+  }
+
+  div#epikefalida{
+
+    padding:1rem 0;
+  }
+
+  #certainty{
+    display:block;
+  }
+
+
+  .fontarios p{
+
+  }
+}
+
+
+
+/* MEDIA QUERY TO TARGET SCREEN SIZES  */
+
+
+/* TARGET SCREEN SIZE LESS THAN 699pixels AGKYRA EDW TWRA */
+@media only screen and (max-width:699px){
+  body{
+
+  }
+
+
+   /* header*/
+   section.container{
+     border:10px groove darkred;
+   }
+
+
+   .lofty-question,.loftarios{
+
+   }
+
+   div#kontainer{
+     font-size:4px solid dodgerblue;
+   }
+
+
+
+
+   /*footer*/
+
+  div#epikefalida{
+    height:auto;
+
+  }
+
+  div#epikefalida span{
+    height:auto;
+}
+
+
+div.moneyisenergy{
+  border:1px solid yellow;
+}
+
+
+div#kontainer{
+  border:7px groove darkolivegreen;
+}
+
+
+section.container section{
+  border:0px solid black ;
+}
+
+.container h2{
+  font-size:12.5px;
+
+  text-align:center;
+  display:block;
+
+}
+
+.container p{
+  font-size:10px;
+  text-align:center;
+}
+
+
+.moneyisenergy{
+  height:43px;
+}
+
+.container h2{
+  height:16px;
+}
+
+section.container img{
+  width:100%;
+  height:100%;
+  margin-top:0;
+}
+
+.image-container{
+  width:100%;
+
+}
+
+section.container{
+  margin-bottom:2rem;
+}
+
+
+div#pictures-container .fontarios h2{
+  font-size:28px;
+
+}
+
+div#pictures-container .fontarios p{
+  font-size:12px;
+  justify-content:center;
+
+}
+
+div#epikefalida span{
+  width:auto;
+  font-size:8px;
+}
+
+
+img#bullshit{
+  height:22.2px;
+}
+
+section.container{
+  border:0;
+}
+
+.lofty-question,.loftarios{
+  border:0;
+
+
+
+}
+
+.image-container{
+  border:0;
+
+
+  /*border:10px groove dodgerblue;*/
+
+
+
+}
+
+.image-container img{
+  border:0;
+
+
+  width:50%;
+
+
+
+
+
+}
+
+
+div.moneyisenergy{
+  border:0;
+}
+
+
+div#kontainer{
+  border:0;
+
+}
+
+div#kontainer section h2{
+  border:0;
+  background-color:transparent;
+}
+
+div#kontainer p{
+  border:0;
+}
+
+
+nav{
+  height:2px;
+}
+
+nav .kouti-two{
+  width:91%;
+}
+
+span.eidiko{
+  padding:0 10px 10px 0px;
+}
+
+
+div.lofty-question,div.loftarios{
+  margin-right:0px;
+  display:flex;
+  justify-content:flex-end;
+  align-items:flex-end;
+
+  width:50%;
+
+
+
+
+
+}
+
+ div.image-container{
+   width:100%;
+   display:flex;
+   justify-content:flex-end;
+}
+
+
+div.image-container img{
+  width:80%;
+}
+
+#whatwouldgogginsdo{
+  justify-content:flex-end;
+
+  margin-right:10px;
+
+
+
+
+
+
+}
+
+#whatwouldbucurdo{
+
+  flex-shrink:0;
+  margin-right:10px;
+
+
+
+}
+
+
+#wtf{
+flex-direction:column;
+align-items:flex-end;
+}
+
+
+
+nav div.kouti-two{
+  width:100%;
+
+  margin-right:-2rem;
+
+
+}
+
+
+
+
+
+
+
+.container h2{
+  width:720px;
+}
+
+.container p{
+  font-size:9px;
+}
+
+
+#oplo{
+  left:262px;
+  width:220px;
+}
+
+#mikechang{
+  width:220px;
+}
+
+
+#understanding{
+  left:580px;
+
+  position:relative;
+}
+
+
+#beautiful{
+  margin-left:17px;
+}
+
+
+div#footer{
+  padding:39px;
+}
+
+
+}
+
+
+
+
+/******************************************************/
+
+@media only screen and (max-width:500px){
+  div#pictures-container .fontarios h2{
+    width:90%;
+    margin:0 auto;
+
+  }
+
+
+  div#pictures-container .fontarios p{
+    margin:1.5rem auto;
+    width:90%;
+
+  }
+
+  div#pictures-container .picturinos{
+    margin:0 auto;
+    width:90%;
+
+  }
+
+
+  div#kontainer section h2{
+    font-size:10px;
+    margin-right:8px;
+
+    height:auto;
+
+
+
+    width:181px;
+
+  }
+
+  div#kontainer section p{
+    font-size:5.0px;
+    margin-right:8px;
+
+    height:auto;
+
+    padding-top:0;
+    width:181px;
+
+    text-align:center;
+    align-items:normal;
+
+    justify-content:center;
+
+  }
+
+
+
+  nav div.kouti-two{
+    width:73%;
+    padding-bottom:353px;
+
+
+
+
+    margin-left:82px;
+
+  }
+
+
+  nav img{
+    height:5.6px;
+  }
+
+  span.eidiko{
+    font-size:4px;
+    padding:0;
+  }
+
+
+  section.container section{
+    width:200px;
+  }
+
+
+   #understanding{
+     position:static;
+   }
+
+
+   #oplo{
+
+       position:absolute;
+       top:10px;
+       left:25px;
+       width:auto;
+
+       border:10px ridge blue;
+
+       position:static;
+
+
+   }
+
+
+   #mikechang{
+
+     position:absolute;
+
+
+     border:10px ridge blue;
+
+     position:static;
+
+     width:200px;
+
+
+   }
+
+   .container h2{
+     margin:4px 0;
+   }
+
+
+   div#footer{
+     padding:23px 0;
+   }
+
+}
+
+
+
+/* A GK YRA STO PRESENT */
+@media only screen and (max-width:400px){
+
+
+
+  nav{
+    height:22px;
+    padding:0;
+  }
+
+  nav img{
+    height:.5rem;
+    width:auto;
+  }
+
+  #certainty{
+    height:.5rem;
+    width:auto;
+
+  }
+
+  nav span.eidiko{
+    height:.5rem;
+    padding:0;
+  }
+
+
+  section.container{
+    height:180px;
+    margin:0;
+
+  }
+
+
+  HeAdEr{
+    height:182px;
+  }
+
+  nav .kouti-one{
+    margin:0 auto;
+  }
+
+  .lofty-question,.loftarios{
+    margin:0;
+  }
+
+
+  div#kontainer section p{
+    height: 10px;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    /* text-align: right;*/
+  }
+
+  div#pictures-container .fontarios p{
+    margin:.2rem auto;
+  }
+
+  div#pictures-container .fontarios h2{
+    font-size:20px;
+
+    margin-top:3px;
+
+    margin:0 auto;
+
+    position:relative;
+    top:3px;
+  }
+
+
+
+  div#kontainer section h2{
+    width:110px;
+    margin-right:0;
+    font-size:8.5px;
+
+    width:137px;
+
+    margin-top:7px;
+
+  }
+
+  div#kontainer section p{
+    width:110px;
+    margin-right:0;
+
+    width:137px;
+
+    display:flex;
+    align-items:flex-start;
+  }
+
+  div.moneyisenergy{
+    position:relative;
+    left:-4px;
+  }
+
+
+  div#epikefalida span{
+    font-size:7px;
+    border:0;
+
+}
+
+
+ div#footer{
+   padding:0;
+
+ }
+
+ nav .kouti-two{
+   width:76%;
+   margin:0 auto;
+ }
+
+ div#kontainer section p{
+   margin-top:3px;
+ }
+
+
+ nav div.kouti-two{
+   padding-bottom:0;
+ }
+
+
+ section.container section{
+   width:141px;
+ }
+
+
+#pictures-container div.picturinos{
+  border:0;
+
+  margin-left:22px;
+}
+
+ div.picturinos img{
+   width:23%;
+ }
+
+
+ div#kontainer section h2{
+   margin-left:18px;
+ }
+
+ div#kontainer section p{
+   margin-left:23px;
+ }
+
+
+section.container p#mikechang{
+  width:89px;
+
+  border:0px dotted green;
+
+  margin-left:32px;
+}
+
+
+div#pictures-container .fontarios p{
+  width:80%;
+  margin-top:.3rem;
+  margin-bottom:0.5rem;
+  font-size:10px;
+}
+
+
+div#epikefalida span{
+  font-size:6px;
+}
+
+div#footer{
+  padding:0 1rem;
+}
+
+ }
